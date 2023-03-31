@@ -21,6 +21,6 @@ This project was created by Anubhav as a demonstration of 2D terrain generation 
 
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request with your changes. We welcome contributions of all kinds, including bug fixes, new features, and documentation improvements.
 
-### License
+## License
 
 This project is licensed under the MIT License
